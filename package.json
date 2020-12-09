@@ -1,0 +1,69 @@
+{
+  "name": "my-app",
+  "homepage": "http://staging.appcrates.net/eorbi/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "1.x",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.2",
+    "clsx": "^1.1.1",
+    "date-fns": "^2.16.1",
+    "formik": "^2.2.4",
+    "jquery": "^3.5.1",
+    "jsonwebtoken": "^8.5.1",
+    "material-ui-image": "^3.3.0",
+    "moment": "^2.29.1",
+    "react": "^16.13.1",
+    "react-awesome-player": "^1.0.12",
+    "react-country-region-selector": "^3.0.1",
+    "react-credit-cards": "^0.8.3",
+    "react-dom": "^16.13.1",
+    "react-h5-video": "^1.0.4",
+    "react-number-format": "^4.4.1",
+    "react-phone-number-input": "^3.1.0",
+    "react-player": "^2.7.0",
+    "react-redux": "^7.2.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-swipeable-views": "^0.13.9",
+    "react-video-markers": "^1.1.4",
+    "reactstrap": "^8.6.0",
+    "redux": "^4.0.5",
+    "redux-core": "^0.1.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "yup": "^0.29.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
